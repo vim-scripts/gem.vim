@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3523
+
+easy navigation in gem directory. have :R :Rl :Rs command, and :A alternative for quich switch between lib and spec file. It works with rag(see resources). for more information please see Documentation
+
+GitHub: http://github.com/GutenLinux/gem.vim
+License: MIT-LICENSE
+Documentation: doc/gem.txt
